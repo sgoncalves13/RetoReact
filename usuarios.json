@@ -1,0 +1,34 @@
+[
+    {
+        "foto": "https://picsum.photos/350",
+        "nombre": "Carlos Manuel",
+        "apellido": "Muñoz Almeida",
+        "correo": "god@example.com",
+        "contraseña": "123",
+        "rol": "agricultor"
+    },
+    {
+        "foto": "https://picsum.photos/350",
+        "nombre": "María",
+        "apellido": "González",
+        "correo": "maria@example.com",
+        "contraseña": "123",
+        "rol": "artesano"
+    },
+    {
+        "foto": "https://picsum.photos/350",
+        "nombre": "Carlos",
+        "apellido": "López",
+        "correo": "carlos@example.com",
+        "contraseña": "123",
+        "rol": "visitante"
+    },
+    {
+        "foto": "https://picsum.photos/350",
+        "nombre": "Laura",
+        "apellido": "Martínez",
+        "correo": "laura@example.com",
+        "contraseña": "123",
+        "rol": "visitante"
+    }
+]
