@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tomate",
+    "tipo": "Hortaliza",
+    "descripcion": "Tomates frescos cultivados de manera orgánica.",
+    "disponibilidad": "Disponible",
+    "precio": 1.5,
+    "origen": "Nacional",
+    "temporada": "Todo el año",
+    "imagen": "https://picsum.photos/345"
+  },
+  {
+    "id": 2,
+    "nombre": "Zanahoria",
+    "tipo": "Hortaliza",
+    "descripcion": "Zanahorias frescas y crujientes.",
+    "disponibilidad": "Disponible",
+    "precio": 0.8,
+    "origen": "Local",
+    "temporada": "Invierno",
+    "imagen": "https://picsum.photos/345"
+  },
+  {
+    "id": 3,
+    "nombre": "Manzana",
+    "tipo": "Fruta",
+    "descripcion": "Manzanas rojas y jugosas.",
+    "disponibilidad": "Disponible",
+    "precio": 1.2,
+    "origen": "Extranjero",
+    "temporada": "Otoño",
+    "imagen": "https://picsum.photos/345"
+  },
+  {
+    "id": 4,
+    "nombre": "Lechuga",
+    "tipo": "Hortaliza",
+    "descripcion": "Lechugas frescas y crujientes.",
+    "disponibilidad": "Disponible",
+    "precio": 0.6,
+    "origen": "Local",
+    "temporada": "Primavera",
+    "imagen": "https://picsum.photos/345"
+  },
+  {
+    "id": 5,
+    "nombre": "Naranja",
+    "tipo": "Fruta",
+    "descripcion": "Naranjas dulces y jugosas.",
+    "disponibilidad": "Disponible",
+    "precio": 1.0,
+    "origen": "Nacional",
+    "temporada": "Invierno",
+    "imagen": "https://picsum.photos/345"
+  }
+]
